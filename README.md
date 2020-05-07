@@ -8,10 +8,10 @@ In this project we will be detecting multiple objects in an image using the Tens
 
 The dataset used in this project is the PASCAL-VOC 2012. Pascal VOC is a collection of datasets for object detection. The main goal is to recognize objects from a number of visual object classes in realistic scenes. The twenty object classes that are existing are:
 
-Person: person
-Animal: bird, cat, cow, dog, horse, sheep
-Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train
-Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor
+- Person: person
+- Animal: bird, cat, cow, dog, horse, sheep
+- Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train
+- Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor
 
 ## 
 
