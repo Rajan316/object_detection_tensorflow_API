@@ -12,6 +12,7 @@ The dataset used in this project is the PASCAL-VOC 2012. Pascal VOC is a collect
 - Animal: bird, cat, cow, dog, horse, sheep
 - Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train
 - Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor
+The dataset is available at http://pjreddie.com/media/files/VOCtrainval_11-May-2012.tar
 
 ## 
 
