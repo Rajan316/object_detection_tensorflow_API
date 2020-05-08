@@ -2,7 +2,7 @@
 
 Object detection is a technology in the field of computer vision for finding and identifying objects in an image or video sequence. 
 
-In this project we will be detecting multiple objects in an image using the Tensorflow object detection API. 
+In this project we will be custom training and detecting multiple objects in an image using the Tensorflow object detection API. 
 
 ## Dataset:
 
